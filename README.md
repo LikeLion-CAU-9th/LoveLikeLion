@@ -27,10 +27,10 @@ You can see our unadopted ideas [here](https://github.com/LikeLion-CAU-9th/LoveL
     <td align="center">Member</td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/yuna0102"><img src="https://avatars.githubusercontent.com/u/62995958?v=4?s=100" width="100px;" alt=""/><br /><sub><b>yuna0102(최윤아)</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/youngkwon02"><img src="https://avatars.githubusercontent.com/u/39653584?v=4?s=100" width="100px;" alt=""/><br /><sub><b>youngkwon02(김영권)</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/Tarakyu"><img src="https://avatars.githubusercontent.com/u/81701494?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Tarakyu(송준호)</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/seongmin221"><img src="https://avatars.githubusercontent.com/u/72431640?v=4?s=100" width="100px;" alt=""/><br /><sub><b>seongmin221(이성민)</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/yuna0102"><img src="https://avatars.githubusercontent.com/u/62995958?v=4?s=100" width="100px;" alt=""/><br /><sub><b>yuna0102(최윤아)</b></sub></a><br /><a href="https://github.com/LikeLion-CAU-9th/LoveLikeLion/commits?author=yuna0102" title="Documentation">🦁</a></td>
+    <td align="center"><a href="https://github.com/youngkwon02"><img src="https://avatars.githubusercontent.com/u/39653584?v=4?s=100" width="100px;" alt=""/><br /><sub><b>youngkwon02(김영권)</b></sub></a><br /><a href="https://github.com/LikeLion-CAU-9th/LoveLikeLion/commits?author=youngkwon02" title="Documentation">🦁</a></td>
+    <td align="center"><a href="https://github.com/Tarakyu"><img src="https://avatars.githubusercontent.com/u/81701494?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Tarakyu(송준호)</b></sub></a><br /><a href="https://github.com/LikeLion-CAU-9th/LoveLikeLion/commits?author=tarakyu" title="Documentation">🦁</a></td>
+    <td align="center"><a href="https://github.com/seongmin221"><img src="https://avatars.githubusercontent.com/u/72431640?v=4?s=100" width="100px;" alt=""/><br /><sub><b>seongmin221(이성민)</b></sub></a><br /><a href="https://github.com/LikeLion-CAU-9th/LoveLikeLion/commits?author=seongmin221" title="Documentation">🦁</a></td>
   </tr>
 </table>
 <hr><br>
