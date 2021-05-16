@@ -17,7 +17,7 @@ You can see our unadopted ideas [here](https://github.com/LikeLion-CAU-9th/LoveL
 <hr><br>
 
 ## Our Team Members
-[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 
 <table>
    <tr>
