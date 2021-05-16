@@ -13,7 +13,7 @@
 <hr><br>
 
 ## Unadopted Idea List
-You can see our unadopted ideas [here](#)
+You can see our unadopted ideas [here](https://github.com/LikeLion-CAU-9th/LoveLikeLion/blob/main/docs/IDEALIST.md)
 <hr><br>
 
 ## Our Team Members
