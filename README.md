@@ -10,11 +10,11 @@
    - [ ] 일정관리 기능을 캘린더 형식으로 제공, 이때 본인이 등록한 일정을 Organization 혹은 원하는 Subgroup 단위로 공유하여, 달력 한 페이지에서 서로의 일정을 확인 및 조율 가능
    - [ ] 채팅 혹은 쪽지 기능 (추후 진행상황에 따라 결정)
 
-<br><br><hr><br>
+<hr><br>
 
 ## Unadopted Idea List
 You can see our unadopted ideas [here](#)
-<br><br><hr><br>
+<hr><br>
 
 ## Our Team Members
 [![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
@@ -33,7 +33,7 @@ You can see our unadopted ideas [here](#)
     <td align="center"><a href="https://github.com/seongmin221"><img src="https://avatars.githubusercontent.com/u/72431640?v=4?s=100" width="100px;" alt=""/><br /><sub><b>seongmin221(이성민)</b></sub></a><br /></td>
   </tr>
 </table>
-<br><br><hr><br>
+<hr><br>
 
 ## License
 MIT License
