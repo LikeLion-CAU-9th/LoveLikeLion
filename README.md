@@ -2,6 +2,7 @@
 ### 🦁 중앙대 멋쟁이 사자들을 위한 커뮤니티 서비스<br><br>
 
 ## Feat List
+   - [ ] 멋쟁이 사자처럼 멤버만을위한 서비스이므로 likelion.org domain의 E-mail로 메일 인증 절차
    - [ ] 공지 및 질의응답을 위한 게시판
    - [ ] 다음 세션 혹은 이벤트까지 남은 시간을 알려주는 Timer
    - [ ] GitHub의 Organization Repo를 랜더링하여 다른 팀의 프로젝트 진행상황 확인 가능
