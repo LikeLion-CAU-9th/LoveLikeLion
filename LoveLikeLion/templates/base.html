@@ -1,0 +1,50 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- custom css -->
+    <link rel="stylesheet" href="{% static 'css/Navbar.css' %}">
+
+    <title>LoveLikeLion</title>
+</head>
+
+<body>
+    <div class="header">
+        <div class="item-box">
+            <div >
+                <a class="main-link" href="{% url 'index' %}">
+                멋사랑해
+                </a>
+            </div>
+            <ul class="menu">
+                <li class="menu-item">
+                    <a href="{% url 'forum' %}">게시판</a>
+                </li>
+                <li class="menu-item">
+                    <a href="#">캘린더</a>
+                </li>
+                <li class="menu-item">
+                    <a href="#">멤버 목록</a>
+                </li>
+                <li class="menu-item">
+                    <a href="#">로그인</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+{% block mainHeader %}
+{% endblock %}
+
+{% block mainContent %}
+{% endblock %}
+
+
+</body>
+
+</html>
