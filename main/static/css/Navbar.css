@@ -9,8 +9,10 @@ div {box-sizing: border-box;}
 
 .header {
     width: 100%;
-    background-color: rgb(240, 255, 184);
+    background-color: rgb(41, 41, 41, 0.75);
     height: 80px;
+    position:fixed;
+    z-index:2;
 }
 
 .item-box {
@@ -20,14 +22,19 @@ div {box-sizing: border-box;}
     right: 0;
 }
 
+@font-face {
+    font-family: notosanskr;
+    src: url("../font/notosanskr-medium-webfont.woff");
+}
 .main-link{
     height:80px;
     line-height: 80px;
     display: block;
     font-size: 32px;
     text-decoration: none;
-    color: rgb(77, 77, 77);
+    color:black;
     white-space: nowrap;
+    font-family: notosanskr;
 }
 
 .menu {
@@ -43,6 +50,7 @@ div {box-sizing: border-box;}
 .menu-item {
     width: 100px;
     text-align: center;
+    font-family: notosanskr;
 }
 
 .menu-item a {
