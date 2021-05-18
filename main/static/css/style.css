@@ -13,14 +13,15 @@ section{
     height:100vh;
     background-image: url('../images/madebysml.jpg');
     background-size: cover;
-    position:relative;
+    background-position: center;
+    position:static;
     top:0;
 }
 
 .background{
     width:100%;
     height: 100vh;
-    position: absolute;
+    position: static;
     z-index: 1;
     background-color: rgba(0,0,0,0.5);
 }
@@ -36,7 +37,7 @@ section{
 .title .title-content{
     font-size: 70px;
     text-align: center;
-    padding-top:200px;
+    padding-top: 15.5%;
     color:#efefef;
     font-family: montserrat;
     z-index: 10;
