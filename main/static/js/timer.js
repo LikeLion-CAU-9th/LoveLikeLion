@@ -36,15 +36,16 @@ var x = setInterval(function () {
   //     clearInterval(x);
   //     document.getElementById("demo").innerHTML = "EXPIRED";
   //   }
-  console.log(
-    "다음 세션까지 " +
-      days +
-      "일" +
-      hours +
-      "시간" +
-      minutes +
-      "분" +
-      seconds +
-      "초"
-  );
+  let resultMessage = "Next Session: ";
+  if (days != 0) {
+    resultMessage += (days + "일");
+  }
+  if (!(days == 0) || (hours != 0)) {
+    resultMessage += (hours + "시간");
+  }
+  if (!(days == 0 && hours == 0) || (minutes != 0)) {
+    resultMessage += (minutes + "분");
+  }
+  resultMessage += (seconds + "초");
+  document.querySelector('.session-timer').innerText = resultMessage;
 }, 1000);

@@ -3,6 +3,7 @@
 
 {% block htmlHead %}
     <link rel="stylesheet" href="{% static 'css/style.css' %}">
+    <script src="{% static 'js/timer.js' %}"></script>
 {% endblock %}
 
 {% block mainContent %}
@@ -12,8 +13,8 @@
         <div class="title">
             <div class="title-content">
                 <img class="mainlogo" src="{% static 'images/logo.png' %}" style="width:150px; height:auto;">
-                <br>
-                LoveLikeLion
+                <div class="session-timer">Next Session: 0일 00시간 00분 00초</div>
+                <span>LoveLikeLion</span>
             </div>
         </div>
     </section>
