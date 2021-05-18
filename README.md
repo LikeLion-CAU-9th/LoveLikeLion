@@ -1,6 +1,11 @@
 # LoveLikeLion (멋사랑해) 🌸 
 ### 🦁 중앙대 멋쟁이 사자들을 위한 커뮤니티 서비스<br><br>
 
+## Current State
+<img width="1440" alt="스크린샷 2021-05-19 오전 1 10 52" src="https://user-images.githubusercontent.com/39653584/118686607-1c2b9200-b83f-11eb-8933-9285e409c09e.png">
+
+
+
 ## Feat List
    - [ ] 멋쟁이 사자처럼 멤버만을위한 서비스이므로 likelion.org domain의 E-mail로 메일 인증 절차
    - [ ] 공지 및 질의응답을 위한 게시판
