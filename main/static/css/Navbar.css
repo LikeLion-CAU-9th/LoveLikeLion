@@ -22,10 +22,6 @@ div {
   right: 0;
 }
 
-@font-face {
-  font-family: notosanskr;
-  src: url("../font/notosanskr-medium-webfont.woff");
-}
 .main-link {
   height: 80px;
   line-height: 80px;
@@ -34,7 +30,7 @@ div {
   text-decoration: none;
   color: black;
   white-space: nowrap;
-  font-family: notosanskr;
+  font-family: MaplestoryOTFBold;
 }
 
 .menu {
@@ -50,7 +46,7 @@ div {
 .menu-item {
   width: 100px;
   text-align: center;
-  font-family: notosanskr;
+  font-family: MaplestoryOTFBold;
 }
 
 .menu-item a {
