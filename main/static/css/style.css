@@ -15,21 +15,31 @@ section{
     background-size: cover;
     position:relative;
     top:0;
-    z-index: 1;
 }
 
 .background{
     width:100%;
+    height: 100vh;
+    position: absolute;
+    z-index: 1;
     background-color: rgba(0,0,0,0.5);
+}
+
+.title {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -80%);
+    z-index: 10;
 }
 
 .title .title-content{
     font-size: 70px;
     text-align: center;
     padding-top:200px;
-    color:rgb(0, 0, 0);
+    color:#efefef;
     font-family: montserrat;
-    filter:blur(0px);
+    z-index: 10;
 }
 
 .session-timer {
@@ -44,11 +54,4 @@ section{
 @font-face {
     font-family: montserrat;
     src: url(../font/montserrat-medium-webfont.woff);
-}
-
-@font-face {
-    font-family: 'MaplestoryOTFBold';
-    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-04@2.1/MaplestoryOTFBold.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
 }

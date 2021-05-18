@@ -38,13 +38,13 @@ var x = setInterval(function () {
   //   }
   let resultMessage = "Next Session: ";
   if (days != 0) {
-    resultMessage += (days + "일");
+    resultMessage += (days + "일 ");
   }
   if (!(days == 0) || (hours != 0)) {
-    resultMessage += (hours + "시간");
+    resultMessage += (hours + "시간 ");
   }
   if (!(days == 0 && hours == 0) || (minutes != 0)) {
-    resultMessage += (minutes + "분");
+    resultMessage += (minutes + "분 ");
   }
   resultMessage += (seconds + "초");
   document.querySelector('.session-timer').innerText = resultMessage;

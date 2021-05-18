@@ -9,10 +9,10 @@ div {
 
 .header {
   width: 100%;
-  background-color: rgb(41, 41, 41, 0.75);
+  background-color: rgb(255, 255, 255, 0.3);
   height: 80px;
   position: fixed;
-  z-index: 2;
+  z-index: 20;
 }
 
 .item-box {
@@ -28,9 +28,9 @@ div {
   display: block;
   font-size: 32px;
   text-decoration: none;
-  color: black;
+  color: #222222;
   white-space: nowrap;
-  font-family: MaplestoryOTFBold;
+  font-family: Wemakeprice-Bold;
 }
 
 .menu {
@@ -46,14 +46,22 @@ div {
 .menu-item {
   width: 100px;
   text-align: center;
-  font-family: MaplestoryOTFBold;
+  font-family: Wemakeprice-Bold;
 }
 
 .menu-item a {
+  font-size: 1.2em;
   text-decoration: none;
-  color: rgb(0, 0, 0);
+  color: #222222;
 }
 
 .menu-item a:hover {
   color: rgb(194, 108, 151);
+}
+
+@font-face {
+  font-family: 'Wemakeprice-Bold';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-10-21@1.0/Wemakeprice-Bold.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
 }
