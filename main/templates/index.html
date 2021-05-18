@@ -1,18 +1,20 @@
 {% extends 'base.html' %}
+{% load static %}
+
+{% block htmlHead %}
+    <link rel="stylesheet" href="{% static 'css/style.css' %}">
+{% endblock %}
 
 {% block mainContent %}
-
-<section>
-    <div class="background">
-    </div>
-    <div class="title">
-        <div class="title-content">
-            <img src="../static/images/logo.png" style="width:150px; height:auto;">
-            <br>
-            LoveLikeLion
+    <section>
+        <div class="background">
         </div>
-    </div>
-</section>
-    
-
+        <div class="title">
+            <div class="title-content">
+                <img src="{% static 'images/logo.png' %}" style="width:150px; height:auto;">
+                <br>
+                LoveLikeLion
+            </div>
+        </div>
+    </section>
 {% endblock %}
